@@ -1,6 +1,8 @@
 # Superset Themes
 
-A curated collection of **60 themes** for [superset.sh](https://superset.sh), ported from popular coding color schemes.
+A curated collection of **60 custom themes** for [Superset](https://superset.sh) — the open-source AI coding platform. Every theme covers the full Superset surface: app chrome, sidebar, borders, charts, highlights, and the integrated terminal with all 16 ANSI colors. Drop in a single JSON file and your entire workspace transforms. Includes the most popular color schemes in the developer ecosystem — Dracula, Nord, Catppuccin, Gruvbox, Solarized, Tokyo Night, One Dark, Monokai Pro, Rose Pine, GitHub, and many more — ready to use out of the box.
+
+Whether you code in a dark room or under daylight, there's a theme here for you. The collection spans 20+ dark themes, 17 light themes, and 20+ alt palettes with distinctive character — from the neon glow of Synthwave '84 to the muted ink wash of Kanagawa Dragon. Each theme is a standalone JSON file you can fork and customize in seconds. Popularity ratings help you start with the community favorites, and every color was sourced from the canonical upstream palette to ensure accuracy.
 
 ## Installation
 
